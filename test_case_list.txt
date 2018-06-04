@@ -1,0 +1,4 @@
+login/test_check_pwd
+exam/test_create_exam
+exam/test_get_exam
+student/test_create_student

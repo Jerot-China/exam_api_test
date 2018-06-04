@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<info>
+	<explain>check_pwd</explain>
+		<password_error username="19900200002" password="1234567" errmsg="登录失败" errno="1001">密码错误</password_error>
+		<account_error username="1990020000234" password="1234567" errmsg="登录失败" errno="1001">账号不存在</account_error>
+		<success username="10013000" password="123456" errmsg="OK" errno="0"></success>
+</info>

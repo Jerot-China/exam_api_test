@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<database name="bzplatform">
+		<table name="t_student_info">
+			<sql id="delete_student">delete from bzplatform.t_student_info where verify_code='2018020703'</sql>
+			<sql id="delete_student">delete from bzplatform.t_student_info where verify_code='2018020706'</sql>
+			<sql id="delete_student">delete from bzplatform.t_student_info where verify_code='2018020706'</sql>
+		</table>
+	</database>
+</page>
